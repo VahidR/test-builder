@@ -28,7 +28,7 @@ To fulfill its mission, it carries out several steps:
    To test the performance of SDK, another RESTful message has been created with 
    Requests library and has been marked as a comment in the source code.               
 
-6. This application has a good degree of test coverage. Test Driven Development was the
+6. This application has a good degree of test coverage. **Test Driven Development** was the
    the major approach while building the application. 
    
    
