@@ -1,6 +1,10 @@
 test-builder
 ============
+A Loading Test builder based on the "Load Impact" Python SDK 
 
+
+Introduction
+=============
 This application implements the idea of building the load test configurations automatically.
 To fulfill its mission, it carries out several steps:
 
@@ -31,7 +35,12 @@ To fulfill its mission, it carries out several steps:
 
 Installing
 ==========
-Download the compressed file and extract it to a favorite location. 
+To run the application properly, you should install two libraries :
+```bash
+$ pip install loadimpact
+$ pip install requests
+```
+After installing the necessary libraries, clone the project into your local machine
 
 
 CLI interface
