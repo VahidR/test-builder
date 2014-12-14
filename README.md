@@ -1,6 +1,6 @@
 test-builder
 ============
-A Loading Test builder based on the "Load Impact" Python SDK 
+Converting JMeter to Load Impact: A Loading Test builder based on the Load Impact Python SDK
 
 
 Introduction
